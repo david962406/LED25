@@ -25,7 +25,7 @@ public class ledControl extends ActionBarActivity {
 
     Button btnOn, btnOff, btnDis;
     SeekBar brightness;
-    sgcgbguighub
+    sgcgbguighubhui
     //jhfhvyufhvvhj
     TextView lumn;
     String address = null;
